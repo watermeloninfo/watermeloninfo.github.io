@@ -5,8 +5,6 @@ date: 2024-11-24 11:59:00-0400
 description: Advanced Degree
 tags: qualification
 categories: NIW
-disqus_comments: true
-related_posts: false
 thumbnail: assets/img/overview-niw.png
 ---
 

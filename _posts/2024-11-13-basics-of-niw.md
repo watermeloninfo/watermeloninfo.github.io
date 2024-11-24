@@ -5,8 +5,6 @@ date: 2024-11-13 11:59:00-0400
 description: Basics you should know about NIW
 tags: basics
 categories: NIW
-disqus_comments: true
-related_posts: false
 ---
 
 # Basics of NIW
