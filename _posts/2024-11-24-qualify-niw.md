@@ -30,7 +30,7 @@ Prepare the following:
 - A copy of the diploma.
 - A copy of transcripts from the bachelor’s degree.
 - Employment verification letters indicating work experience.  
-  [Insert a link for the employment verification letter template]
+  [link to the employment verification letter template](https://watermeloninfo.github.io/assets/pdf/Employment_Verifiacation_Letter_Template.pdf)
 
 ---
 
