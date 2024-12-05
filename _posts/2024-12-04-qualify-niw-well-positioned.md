@@ -14,11 +14,15 @@ thumbnail: assets/img/overview-niw.png
     </div>
 </div>
 
-# Second Prong: The Person is Well Positioned to Advance the Proposed Endeavor
+# Well Positioned
+
+## Second Prong: The Person is Well Positioned to Advance the Proposed Endeavor
 
 Unlike the first prong, which focuses on the merit and importance of the proposed endeavor, the second prong centers on the person. The person needs to be “well positioned to advance the endeavor.”
 
-## Factors: (not an exclusive list)
+---
+
+### Factors: (not an exclusive list)
 
 - The person’s education, skills, knowledge, and record of success in related or similar efforts;
 - A model or plan that the person developed, or played a significant role in developing, for future activities related to the proposed endeavor;
@@ -29,7 +33,9 @@ The petitioner should submit evidence to document the person’s past achievemen
 
 Claims cannot be unsubstantiated or implausible, but does not need to demonstrate that the proposed endeavor is more likely than not to ultimately succeed.
 
-## Examples of evidence: (not exclusive list)
+---
+
+### Examples of evidence: (not exclusive list)
 
 - Degrees, certificates, or licenses in the field;
 - Patents, trademarks, or copyrights developed by the person;
@@ -50,8 +56,12 @@ Claims cannot be unsubstantiated or implausible, but does not need to demonstrat
   - Documents showing technology that the person invented, or contributed to inventing, and how others use that technology;
   - Patents or licenses for innovations the person developed with documentation showing why the patent or license is significant to the field.
 
+---
+
 ## References:
 
 - [USICS policy manual](https://www.uscis.gov/policy-manual/volume-6-part-f-chapter-5)
+
+---
 
 Initially Drafted on 11/12/2024 based on information available at that time.
