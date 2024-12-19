@@ -6,7 +6,7 @@ subtitle: Your guide to EB-2 NIW DIY.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: niw_illustration.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
